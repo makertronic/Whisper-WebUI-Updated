@@ -4,5 +4,5 @@ openai-whisper
 faster-whisper
 transformers
 gradio
-pytube
+pytubefix
 audioop-lts
