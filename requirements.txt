@@ -1,8 +1,8 @@
---extra-index-url https://download.pytorch.org/whl/cu118
+--extra-index-url https://download.pytorch.org/whl/cu128
 torch
 openai-whisper
 faster-whisper
 transformers
-gradio==4.14.0
+gradio
 pytube
 audioop-lts
